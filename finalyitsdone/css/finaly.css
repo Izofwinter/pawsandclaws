@@ -38,3 +38,17 @@ font-size: 1em;
 h3 {
   text-align: center;
 }
+a:link {
+  color: rgb(17, 85, 53);
+}
+a:visited {
+color: #0c3f33;
+}
+a:focus, a:hover {
+color: #6bebc9;
+background-color: #fff;
+}
+a:active {
+color: rgb(74, 161, 123);
+background-color: #fff;
+}
